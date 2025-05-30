@@ -37,7 +37,6 @@ It simulates a real-world single-slot parking system with entry and exit automat
 | Ultrasonic ECHO     | A3          |
 | I2C LCD             | A4 (SDA), A5 (SCL) |
 
-> You can adjust pin numbers in the code as needed.
 
 ---
 
